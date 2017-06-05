@@ -1,0 +1,5 @@
+Project name:	Cloud design
+Group name:	Spidernet
+Group members:	Macmillan Makore
+		Munyaradzi Kavhai
+		Shawn Mabote
